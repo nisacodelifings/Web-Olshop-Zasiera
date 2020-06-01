@@ -43,6 +43,9 @@ img {
   border: 0;
   max-width: 100%;
 }
+p{
+  font-size: 20pt;
+}
 html {
   -ms-overflow-style: scrollbar;
 }
