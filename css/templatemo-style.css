@@ -139,7 +139,7 @@ video {
 #video:after {
   content: '';
   opacity: 0.75;
- background: #b87e7e;  /* fallback for old browsers */
+ background: pink;  /* fallback for old browsers */
 
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4096ee', endColorstr='#39ced6',GradientType=0 ); /* IE6-9 */
   position:fixed;
@@ -221,7 +221,7 @@ video {
   flex: 1 0 auto;
 }
 .preloader {
- background: #b87e7e;  /* fallback for old browsers */
+ background: pink;  /* fallback for old browsers */
 
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4096ee', endColorstr='#39ced6',GradientType=0 ); /* IE6-9 */
   height: 100%;
