@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+body {
+    background: #222;
+    color: #fff;
+    font-family: 'Merienda', cursive;
+}
+
+.App {
+    text-align: center;
+}
+
+button {
+    padding: 10px 5px;
+    background: white;
+    font-family: 'Merienda', cursive;
+    color: #222;
+    border-radius: 15px;
+    width: 150px;
+    font-size: 20pt;
+    transition: all 0.5s;
+}
+
+button:hover {
+    font-size: 25pt;
+}
+
+main {
+    margin-top: 50px;
+}
+main > p{
+	text-align: center;
+}
+main > .codelifings{
+	font-size: 7pt;
+	color: white;
+	letter-spacing: 1.5px;
+	text-decoration: none;
+}
+.motto{
+	letter-spacing: 1px;
+}
