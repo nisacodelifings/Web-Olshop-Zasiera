@@ -54,9 +54,9 @@ Panjang Belakang : 130 cm </li> <br />
 <br />
 <h1>Sebelum itu.........</h1>
 <h3>Kita mengetahui bahwa sekarang memang banyak yg menjual Mukena dimana-mana, Namun...</h3>
-<h2 class="harga">Apa yang membedakan kami dengan yang lain?</h2>
-<h2 class="harga">Pertama, Bahan  dibuat dari yg TERBAIK, Jahitan dan Finishing kualitas Butik, (Rapi, Elegant, Awet) serta Quality Control</h2>        
-<br />
+<h2 class="harga">Apa yang membedakan produk kami dengan yang lain?</h2>
+<h2 class="harga">Pertama, Bahan  dibuat dari yg TERBAIK. Kedua, Jahitan dan Finishing kualitas Butik. Ketiga, Desain produk dirancang dengan Rapi, Elegant, Awet serta Quality Control</h2>        
+
 					<h2>Kami pastikan paket yang anda terima sudah dalam pengecekan terlebih dahulu!!!</h2>
 					<br />
 		
@@ -65,22 +65,23 @@ Panjang Belakang : 130 cm </li> <br />
 			  <h2 class="harga">100% Amanah & Terpercaya</h2>
 			 <div class="harga">
 			 <h2>Pembayaran COD, Transfer atau Pilih yang Memudahkan Bunda saja.</h2>
-			  <h3>Semua Rekening bank a/n satu orang, Kecil kemungkinan penipuan. Pemesanan hanya melalui online, Saat ini kami tidak  membuka toko offline di manapun.</h3>
+			  <h2>Semua Rekening bank a/n satu orang, Kecil kemungkinan penipuan. <br/> Pemesanan hanya melalui online, Saat ini kami tidak  membuka toko offline di manapun.</h2>
 				</div>
 				<div class="harga">
-			  <h2>YuK, Buruan Serbu Sekarang!!</h2>
-			  <p>KAMI Khawatir Ukhty TIDAK KEBAGIAN <br/> Jika tidak PESAN SEKARANG</p>
+			  <h1>Yuk, Buruan Serbu Sekarang!!</h1>
+			  <h2>KAMI Khawatir Ukhty TIDAK KEBAGIAN <br/> Jika tidak PESAN SEKARANG..</h2>
 </div>
 <br/>
-				<div className="header">
+				<div className="header harga" style={{paddingBottom:"15px"}}>
       <img className="logo" src="https://raw.githubusercontent.com/nisacodelifings/Web-Olshop-Zasiera/e3c15b9843cc851e2b37cfac7e17ba7853a41b3b/images/lotus.png" />
       <h1 class="harga">Zasiera</h1>
       <h4>-Mukena Sahabat Muslimah-</h4>
       <h5 className="motto">by Susylawati Pandansari</h5>
-  </div>
-	
-      		<a href="https://wa.me/6281225420505"><button>Order</button></a>
+			<a href="https://wa.me/6281225420505"><button>Order</button></a>
 
+	</div>
+	
+      	
       		<br />
       		<br />
       		<a className="codelifings" href="https://codelifings.netlify.com">&copy; Codelifings</a>
