@@ -5,6 +5,8 @@ body {
   color: #fff;
   font-family: "Merienda", cursive;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 @media screen and (min-width: 768px){.container{width:500px; border :2px dashed white}}
 .container{width:350px}
