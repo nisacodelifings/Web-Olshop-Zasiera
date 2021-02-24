@@ -7,7 +7,7 @@ body {
   text-align: center;
 }
 @media screen and (min-width: 768px){.container{width:500px; border :2px dashed white}}
-.container{width:300px}
+.container{width:350px}
 .conteng{
   text-decoration: line-through;text-decoration-color: red;
 }
